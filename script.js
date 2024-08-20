@@ -121,3 +121,4 @@ function saveAndRedirect() {
 
 
 // fin du code doelstellingen 1 voor brainstorming
+// comentaar toevoegen
